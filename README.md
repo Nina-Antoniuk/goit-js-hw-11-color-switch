@@ -7,6 +7,4 @@
 - HTML;
 - CSS;
 - flexbox;
-- templates
 - JS;
-- parcel;
